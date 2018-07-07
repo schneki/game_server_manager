@@ -1,0 +1,12 @@
+[package]
+name = "game_server_manager"
+version = "0.1.0"
+authors = ["schneki <schneki.max@gmail.com>"]
+
+[dependencies]
+hyper = ""
+futures = ""
+zip = "0.4"
+serde_json = ""
+serde = ""
+serde_derive = ""
